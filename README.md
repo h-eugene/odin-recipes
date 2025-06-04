@@ -9,11 +9,13 @@ A basic recipe website built with HTML for [The Odin Project](https://www.theodi
   - Individual recipe pages (ingredients + instructions)
   - Proper file structure
 
-![Overview](./overview.png)
+![Website Preview](./overview.png)
+
+➡ **Live Demo**: [https://wrzdx.github.io/odin-recipes/](https://wrzdx.github.io/odin-recipes/)
 
 ## Technologies Used
 - HTML5
-- Git/GitHub (version control)
+- Git/Github (version control)
 - Command line basics
 
 ## Key Learnings
@@ -27,3 +29,4 @@ A basic recipe website built with HTML for [The Odin Project](https://www.theodi
 1. Clone repository:
    ```bash
    git clone https://github.com/wrzdx/odin-recipes.git
+2. Open `index.html` in your browser
